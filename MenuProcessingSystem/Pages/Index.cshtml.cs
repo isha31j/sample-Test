@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
+///Hello World!
+
 namespace MenuProcessingSystem.Pages
 {
     public class IndexModel : PageModel
